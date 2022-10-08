@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@angular/platform-browser": "^14.2.5",
     "ngx-google-places-autocomplete": "^2.0.5"
   }
 }
